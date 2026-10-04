@@ -1,0 +1,12 @@
+# Foundry cache & build artifacts
+cache/
+out/
+ broadcast/
+
+# Environment
+.env
+
+# Editor
+.vscode/
+.idea/
+*.swp
